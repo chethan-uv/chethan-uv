@@ -1,18 +1,8 @@
 # Hi there 👋
 
-## About Me
+## Welcome to my GitHub profile! 🚀
 
-I’m an Azure Cloud Engineer with a growing focus on DevOps and AI.
-
-### Currently working on
-- Azure Cloud
-- DevOps practices
-- AI-related learning and projects
-
-### I’m looking to collaborate on
-- Cloud architecture
-- DevOps automation
-- AI and cloud integrations
-
-### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/chethan-v-4b1994274)
+- 💻 Azure Cloud Engineer
+- 📚 Currently learning DevOps
+- 🤝 Open to collaborating on Cloud, DevOps, and AI
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chethan-v-4b1994274)
